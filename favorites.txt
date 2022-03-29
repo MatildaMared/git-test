@@ -1,3 +1,15 @@
+===============
+FAVORITE MOVIES
+===============
+
 Titanic
 Avatar
 Matrix
+
+==============
+FAVORITE FOODS
+==============
+
+Hamburger
+Cobb Salad
+Pancakes
